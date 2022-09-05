@@ -1599,7 +1599,7 @@ h5{
         width: 400px;
         border-radius: 50%;
         background-color: rgb(11, 12, 12);
-        left: 10%;
+        left: 5%;
         top: -30%;
         transition: all 1s ;
         background: none;
@@ -1982,7 +1982,7 @@ h5{
     
     .txt1{
         position: absolute;
-        top: 40%;
+        top: 45%;
         left: 10%;
         font-size: 20px;
         font-weight: bold;
@@ -1999,7 +1999,7 @@ h5{
     }
     .txt2{
         position: absolute;
-        top: 68%;
+        top: 73%;
         right: 30%;
         font-size: 20px;
     }
@@ -2015,7 +2015,7 @@ h5{
     }
     .txt3{
         position: absolute;
-        top: 110%;
+        top: 115%;
         left: 30%;
         font-size: 30px;
     }
